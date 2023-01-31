@@ -1,16 +1,6 @@
 # real_time_codding
 
-A new Flutter project.
+Real time codding...
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Showcase
+![Captura de tela 2023-01-30 233434](https://user-images.githubusercontent.com/70462767/215648537-f0247b4a-e036-4c04-bd7e-0e47f6c6ea20.png)
